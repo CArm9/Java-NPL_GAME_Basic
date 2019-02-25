@@ -2,6 +2,7 @@
   Use regular expression in java [Basic]
 
 # Description
+  ชื่อเกมส์ : อะไรหว่า!!!
   เป็นโปรเจค Java ที่ฝึกการใช้งาน NPL เบื้องต้น ประกอบด้วย
    - 1.การใช้ Regular Expession เบื้องต้น
    - 2.ส่วนอื่นๆที่เกี่ยวข้องกับ NPL เบื้องต้น
